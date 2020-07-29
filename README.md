@@ -3,7 +3,7 @@ This project describes frequency modulation of a signal by hardware realization 
 
 Information about CORDIC algorithm can be found [here](http://www.ee.iitm.ac.in/vlsi/_media/iep2010/cordic.pdf).
 
-Project video can be found [here]().
+Project video can be found [here](https://drive.google.com/file/d/10f31-u9_aplKR-gaJPrfed2HtWnexv0-/view?usp=sharing).
 
 ## Contributors
 Kanishk Kalra  
