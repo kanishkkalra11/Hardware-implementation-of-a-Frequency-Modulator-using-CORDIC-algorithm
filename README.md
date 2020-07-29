@@ -6,6 +6,7 @@ Information about CORDIC algorithm can be found [here](http://www.ee.iitm.ac.in/
 Project video can be found [here]().
 
 ## Contributors
+Kanishk Kalra  
 Shweta Pardeshi  
 Ajj Patel  
 Ishita Goyal
